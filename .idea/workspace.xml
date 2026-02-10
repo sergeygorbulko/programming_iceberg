@@ -4,7 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f214fb52-7cf4-42c4-afdf-e8956c075aea" name="Changes" comment="feat: Initialize Kotlin project with Gradle support and basic configuration" />
+    <list default="true" id="f214fb52-7cf4-42c4-afdf-e8956c075aea" name="Changes" comment="feat: Initialize Kotlin project with Gradle support and basic configuration">
+      <change afterPath="$PROJECT_DIR$/backend/kotlin/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/kotlin/exposed/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/kotlin/ktor/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/kotlin/spring_boot/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/protocols/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/protocols/gRPC/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/protocols/graphQL/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/protocols/http/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/protocols/rest/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/protocols/websocet/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/python/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/python/fastapi/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/python/sqlalchemy/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cicd/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cicd/github/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cicd/gitlab/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cicd/jenkins/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conteiners/Kubernetes/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conteiners/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conteiners/docker/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures_and_algorithms/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/databases/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/databases/SQL/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/databases/mongodb/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/databases/postgreSQL/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/databases/redis/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/SpiffWorkFlow/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/camunda/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/nginx/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netwroks/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netwroks/dns/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netwroks/ip/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netwroks/protocols/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/os/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/os/linux/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/principals_and_methods/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/version_control/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/version_control/git/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
