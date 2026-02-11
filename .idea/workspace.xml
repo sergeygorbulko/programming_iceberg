@@ -4,49 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f214fb52-7cf4-42c4-afdf-e8956c075aea" name="Changes" comment="feat: Initialize Kotlin project with Gradle support and basic configuration">
-      <change afterPath="$PROJECT_DIR$/backend/kotlin/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/kotlin/exposed/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/kotlin/ktor/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/kotlin/spring_boot/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/protocols/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/protocols/gRPC/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/protocols/graphQL/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/protocols/http/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/protocols/rest/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/protocols/websocet/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/python/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/python/fastapi/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/python/sqlalchemy/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cicd/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cicd/github/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cicd/gitlab/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cicd/jenkins/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conteiners/Kubernetes/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conteiners/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conteiners/docker/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures_and_algorithms/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/databases/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/databases/SQL/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/databases/mongodb/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/databases/postgreSQL/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/databases/redis/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middleware/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middleware/SpiffWorkFlow/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middleware/camunda/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middleware/nginx/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netwroks/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netwroks/dns/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netwroks/ip/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netwroks/protocols/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/os/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/os/linux/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/principals_and_methods/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/version_control/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/version_control/git/README.MD" afterDir="false" />
+    <list default="true" id="f214fb52-7cf4-42c4-afdf-e8956c075aea" name="Changes" comment="feat: Add IntelliJ project configuration files for Kotlin project">
+      <change afterPath="$PROJECT_DIR$/programming_languages/kotlin/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_languages/kotlin/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_languages/kotlin/basics/types.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_languages/kotlin/basics/variables_and_consts.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_languages/kotlin/demo_project/demo/src/main/kotlin/types_example/types_example.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_languages/kotlin/demo_project/demo/src/main/kotlin/vars_and_consts/vars_and_consts.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/.idea/AndroidProjectSystem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/programming_languages/kotlin/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_languages/python/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/programming_languages/python/README.MD" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +35,6 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="7" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="ExternalProjectsData">
@@ -96,6 +76,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sergeygorbulko"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sergeygorbulko/programming_iceberg.git",
+    "accountId": "ec659f0e-fbf3-4537-8864-e613543d81bc"
+  }
+}]]></component>
   <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="C:\Users\Sergey.DESKTOP-D0IDRFA\.gradle\wrapper\dists\gradle-8.14.2-bin\2pb3mgt1p815evrl3weanttgr\gradle-8.14.2" javaHome="C:\Users\Sergey.DESKTOP-D0IDRFA\.gradle\jdks\eclipse_adoptium-21-amd64-windows.2" gradleVersion="8.14.2">
     <option name="jvmArguments">
       <list>
@@ -149,6 +141,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\learning\programming_iceberg\programming_languages\kotlin\demo_project" />
       <recent name="H:\learning\programming_iceberg" />
       <recent name="H:\learning\programming_iceberg\backend\protocols" />
     </key>
@@ -248,15 +241,44 @@
       <option name="project" value="LOCAL" />
       <updated>1770730456296</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="doc: Инициализация всех README.MD для всех каталогов айсберга">
+      <option name="closed" value="true" />
+      <created>1770733666338</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770733666338</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: Add IntelliJ project configuration files for Kotlin project">
+      <option name="closed" value="true" />
+      <created>1770733805575</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770733805575</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="doc: Add a detailed project structure and navigation guidelines in README.md" />
     <MESSAGE value="doc: " />
     <MESSAGE value="doc: Add Python topics and KISS principle documentation" />
-    <MESSAGE value="feat: " />
     <MESSAGE value="feat: Initialize Kotlin project with Gradle support and basic configuration" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Initialize Kotlin project with Gradle support and basic configuration" />
+    <MESSAGE value="doc: Инициализация всех README.MD для всех каталогов айсберга" />
+    <MESSAGE value="feat: " />
+    <MESSAGE value="feat: Add IntelliJ project configuration files for Kotlin project" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Add IntelliJ project configuration files for Kotlin project" />
   </component>
 </project>
