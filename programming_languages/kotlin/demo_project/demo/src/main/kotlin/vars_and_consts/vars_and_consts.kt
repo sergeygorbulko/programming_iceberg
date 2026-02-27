@@ -23,7 +23,7 @@ fun varsAndConsts() {
     val myInt2 = 42
     val myString: String = "Hello, Kotlin!"
 
-    val myDouble: Double = 2.0 + readln().toDouble()
+    val myDouble: Double = 2.0
     println("myDouble: $myDouble")
 
     println("-------------------Vars and Consts DEMO-------------------")

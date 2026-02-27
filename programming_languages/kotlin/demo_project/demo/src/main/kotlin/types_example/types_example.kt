@@ -2,6 +2,8 @@ package org.example.types_example
 
 import kotlin.math.round
 
+const val HERO_NAME = "Gandalf"
+const val playerLevel = 10
 
 private fun primitiveTypesExample() {
     val bool: Boolean = true
@@ -89,6 +91,16 @@ private fun primitiveTypesExample() {
     println(round(1.4))
 
     println("------------------- Primitive Types DEMO-------------------")
+
+    val uByte2: UByte = 500.toUByte()
+    println("uByte2: $uByte2")
+
+    println(
+        """
+           $HERO_NAME approaches the bounty board. It reads:
+           "$playerLevel"
+         """.trimIndent()
+    )
 }
 
 fun typesExample() {

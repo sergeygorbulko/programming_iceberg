@@ -1,9 +1,8 @@
 package org.example
 
-import org.example.vars_and_consts.varsAndConsts
-import org.example.types_example.typesExample
+import org.example.demoApp.runApp
 
 fun main() {
-    varsAndConsts()
-    typesExample()
+    runApp()
 }
+

@@ -4,30 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f214fb52-7cf4-42c4-afdf-e8956c075aea" name="Changes" comment="feat: Add IntelliJ project configuration files for Kotlin project">
-      <change afterPath="$PROJECT_DIR$/programming_languages/kotlin/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programming_languages/kotlin/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programming_languages/kotlin/basics/types.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programming_languages/kotlin/basics/variables_and_consts.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programming_languages/kotlin/demo_project/demo/src/main/kotlin/types_example/types_example.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programming_languages/kotlin/demo_project/demo/src/main/kotlin/vars_and_consts/vars_and_consts.kt" afterDir="false" />
+    <list default="true" id="f214fb52-7cf4-42c4-afdf-e8956c075aea" name="Changes" comment="refactor: Restructure Kotlin project and move it into a new demo project directory">
+      <change afterPath="$PROJECT_DIR$/programming_languages/kotlin/.idea/AndroidProjectSystem.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_languages/kotlin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_languages/kotlin/basics/control_flow.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_languages/kotlin/basics/functions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_languages/kotlin/demo_project/demo/src/main/kotlin/bigO/bigO.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_languages/kotlin/demo_project/demo/src/main/kotlin/control_flow/control_flow.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_languages/kotlin/demo_project/demo/src/main/kotlin/functions/functions.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/.idea/AndroidProjectSystem.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/.idea/kotlinc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/programming_languages/kotlin/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/settings.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/src/main/kotlin/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming_languages/python/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/programming_languages/python/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/programming_languages/kotlin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/demo_project/demo/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/programming_languages/kotlin/demo_project/demo/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/demo_project/demo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/programming_languages/kotlin/demo_project/demo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/demo_project/demo/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/programming_languages/kotlin/demo_project/demo/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/demo_project/demo/src/main/kotlin/types_example/types_example.kt" beforeDir="false" afterPath="$PROJECT_DIR$/programming_languages/kotlin/demo_project/demo/src/main/kotlin/types_example/types_example.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_languages/kotlin/demo_project/demo/src/main/kotlin/vars_and_consts/vars_and_consts.kt" beforeDir="false" afterPath="$PROJECT_DIR$/programming_languages/kotlin/demo_project/demo/src/main/kotlin/vars_and_consts/vars_and_consts.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,18 +68,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "sergeygorbulko"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sergeygorbulko&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sergeygorbulko/programming_iceberg.git",
-    "accountId": "ec659f0e-fbf3-4537-8864-e613543d81bc"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sergeygorbulko/programming_iceberg.git&quot;,
+    &quot;accountId&quot;: &quot;ec659f0e-fbf3-4537-8864-e613543d81bc&quot;
   }
-}]]></component>
+}</component>
   <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="C:\Users\Sergey.DESKTOP-D0IDRFA\.gradle\wrapper\dists\gradle-8.14.2-bin\2pb3mgt1p815evrl3weanttgr\gradle-8.14.2" javaHome="C:\Users\Sergey.DESKTOP-D0IDRFA\.gradle\jdks\eclipse_adoptium-21-amd64-windows.2" gradleVersion="8.14.2">
     <option name="jvmArguments">
       <list>
@@ -257,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770733805575</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="refactor: Restructure Kotlin project and move it into a new demo project directory">
+      <option name="closed" value="true" />
+      <created>1770822284936</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1770822284936</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -279,6 +279,7 @@
     <MESSAGE value="doc: Инициализация всех README.MD для всех каталогов айсберга" />
     <MESSAGE value="feat: " />
     <MESSAGE value="feat: Add IntelliJ project configuration files for Kotlin project" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Add IntelliJ project configuration files for Kotlin project" />
+    <MESSAGE value="refactor: Restructure Kotlin project and move it into a new demo project directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: Restructure Kotlin project and move it into a new demo project directory" />
   </component>
 </project>
